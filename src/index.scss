@@ -1,3 +1,7 @@
 @import "./assets/assets";
-@import "./scss/base.scss";
-@import "./scss/components"
+@import "./scss/functions";
+@import "./scss/mixins";
+@import "./scss/variables";
+@import "./scss/base";
+@import "./scss/columns";
+@import "./scss/components";
